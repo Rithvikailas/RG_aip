@@ -1,4 +1,4 @@
-# maker.ai
+# RG_aip
 AI based 3D printer which takes in a single 2.5 D image as an input and provides a 3D model to be used with the 3D printer
 
 
